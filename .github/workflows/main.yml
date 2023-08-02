@@ -38,9 +38,9 @@ jobs:
           haxelib --never install flixel 4.11.0
           haxelib run lime setup flixel
           haxelib run lime setup
-          haxelib install flixel-tools
-          haxelib install flixel-ui
-          haxelib install flixel-addons
+          haxelib install flixel-tools 
+          haxelib install flixel-ui 2.5.0
+          haxelib install flixel-addons 2.11.0
           haxelib install tjson
           haxelib install hxjsonast
           haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit
@@ -79,8 +79,8 @@ jobs:
           haxelib run lime setup flixel
           haxelib run lime setup
           haxelib install flixel-tools
-          haxelib install flixel-ui
-          haxelib install flixel-addons
+          haxelib install flixel-ui 2.5.0
+          haxelib install flixel-addons 2.11.0
           haxelib install tjson
           haxelib install hxjsonast
           haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit
@@ -120,8 +120,8 @@ jobs:
           haxelib run lime setup flixel
           haxelib run lime setup
           haxelib install flixel-tools
-          haxelib install flixel-ui
-          haxelib install flixel-addons
+          haxelib install flixel-ui 2.5.0
+          haxelib install flixel-addons 2.11.0
           haxelib install tjson
           haxelib install hxjsonast
           haxelib git linc_luajit https://github.com/AndreiRudenko/linc_luajit
